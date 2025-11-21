@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing the Wikipedia Knowledge Graph Dataset in Wolfram Language
-date: 2025-11-21 10:00:00-0000
+date: 2025-11-20 10:00:00-0000
 inline: false
 related_posts: false
 ---
